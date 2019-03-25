@@ -1,0 +1,119 @@
+#page-content-inner
+{
+    background:black !important;
+}
+.content-wrapper,.single-article
+{
+    background: black !important;
+    color:white !important;
+}
+.single-article h3
+{
+    color: white !important;
+}
+
+article
+{
+    background: black !important;
+    color: white;
+}
+#article-body
+{
+    background: black;
+}
+#article-reaction-actions
+{
+    background: black !important;
+}
+p:has(a)
+{
+background: white! important;
+}
+.notification-new-post-title
+{
+    color: white !important;
+}
+#additional-content-area
+{
+    background: black !important;
+    color: white !important;
+}
+.ltag__link__content h2,h3{
+    background: black !important;
+    color: white !important;
+}
+.ltag__link__taglist
+{
+    color: white;
+}
+.sidebar-profile-snapshot-inner
+{
+color: white !important;
+}
+.sidebar-profile-snapshot
+{
+    background: black !important;
+}
+.tag
+{
+    color: white !important;
+}
+.sidebar-nav-block
+{
+    background: black !important;
+}
+.sidebar-nav-link
+{
+    color: white !important;
+}
+.readinglist-sidebar-subcat
+{
+    color: white !important;
+}
+.sidebar-nav-header-middle
+{
+    color: white !important;
+}
+.sidebar-nav-tag-text:hover
+{
+    background: blue;
+}
+.sidebar-nav-link:hover,.sidebar-nav-readinglist:hover,.readinglist-sidebar-subcat a:hover
+{
+background: blue;
+}
+.nav-chronofiter-link 
+{
+    color: white !important;
+}
+.widget-body,.widget,.cta-button,.tag-or-query-header-container h1,.widget-list-item__content a
+{
+    background: black !important;
+    color: white !important;
+}
+.widget-link-list__item a{
+    color: #fff !important;
+}
+.home .side-bar .sidebar-nav .sidebar-nav-block .sidebar-nav-element.sidebar-nav-readinglist .sidebar-nav-link:hover,.user-profile-header
+{
+    background: black !important;
+}
+#page-content,.query-type-filter-button,.query-tag-filter-button,footer,.inner-footer-container,.inner-footer-container a
+{
+    background: #000 !important; 
+    color: #fff !important;
+
+}
+.top-bar
+{
+    background: #000 !important;
+    color: #fff !important;
+}
+svg
+{
+    fill: #fff !important;
+}
+.home .side-bar .widget .widget-body .widget-podcast-ep a
+{
+    color: #fff !important;
+}
