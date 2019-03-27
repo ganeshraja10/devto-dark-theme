@@ -86,7 +86,7 @@ background: blue;
 {
     color: white !important;
 }
-.widget-body,.widget,.cta-button,.tag-or-query-header-container h1,.widget-list-item__content a
+.widget-body,.widget,.cta-button,.tag-or-query-header-container h1,.widget-list-item__content a,.notification-comment-reacted-link
 {
     background: black !important;
     color: white !important;
@@ -98,7 +98,7 @@ background: blue;
 {
     background: black !important;
 }
-#page-content,.query-type-filter-button,.query-tag-filter-button,footer,.inner-footer-container,.inner-footer-container a
+#page-content,.query-type-filter-button,.query-tag-filter-button,footer,.inner-footer-container,.inner-footer-container a,.notification-comment-reacted-link
 {
     background: #000 !important; 
     color: #fff !important;
